@@ -70,7 +70,7 @@ function App() {
   return (
     <div className="container">
       <div className="outerDiv">
-        <div>
+        <div className="head">
           <h1>TODO LIST</h1>
         </div>
         <div>
